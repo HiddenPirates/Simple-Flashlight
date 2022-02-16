@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Flashlight</string>
+    <string name="switch_btn">Turn On</string>
+    <string name="your_feedback">Your feedback...</string>
+    <string name="subject_field">Subject</string>
+    <string name="send_btn">Send</string>
+    <string name="grant_btn">Grant</string>
+</resources>
